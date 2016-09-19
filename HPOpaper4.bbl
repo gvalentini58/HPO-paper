@@ -1,0 +1,241 @@
+\begin{thebibliography}{}
+
+\bibitem[Aym\'e and Schmidtke(2007)Aym\'e and Schmidtke]{orphanet}
+Aym\'e, S. and Schmidtke, J. (2007).
+\newblock Networking for rare diseases: a necessity for europe.
+\newblock {\em Cin. Genet.}, {\bf 52}, 1477 -- 1483.
+
+\bibitem[Boycott {\em et~al.}(2013)Boycott, Vanstone, Bulman, and
+  MacKenzie]{boycot13}
+Boycott, K., Vanstone, M., Bulman, D., and MacKenzie, A. (2013).
+\newblock Rare-disease genetics in the era of next-generation sequencing:
+  discovery to translation.
+\newblock {\em Nature Reviews Genetics\/}, {\bf 14}, 681–691.
+
+\bibitem[Bragin {\em et~al.}(2014)Bragin, Chatzimichali, Wright, Hurles, Firth,
+  Bevan, and Swaminathan]{decipher}
+Bragin, E., Chatzimichali, E.~A., Wright, C.~F., Hurles, M.~E., Firth, H.~V.,
+  Bevan, A.~P., and Swaminathan, G.~J. (2014).
+\newblock {DECIPHER:} database for the interpretation of phenotype-linked
+  plausibly pathogenic sequence and copy-number variation.
+\newblock {\em Nucleic Acids Research\/}, {\bf 42}(Database-Issue), 993--1000.
+
+\bibitem[Cesa-Bianchi {\em et~al.}(2012)Cesa-Bianchi, Re, and
+  Valentini]{Vale12a}
+Cesa-Bianchi, N., Re, M., and Valentini, G. (2012).
+\newblock Synergy of multi-label hierarchical ensembles, data fusion, and
+  cost-sensitive methods for gene functional inference.
+\newblock {\em Machine Learning\/}, {\bf 88}(1), 209--241.
+
+\bibitem[Chatr-Aryamontri {\em et~al.}(2013)Chatr-Aryamontri, Breitkreutz,
+  Heinicke, Boucher, Winter, Stark, Nixon, Ramage, Kolas, O'Donnell, Reguly,
+  Breitkreutz, Sellam, Chen, Chang, Rust, Livstone, Oughtred, Dolinski, and
+  Tyers]{biogrid13}
+Chatr-Aryamontri, A., Breitkreutz, B.-J., Heinicke, S., Boucher, L., Winter,
+  A.~G., Stark, C., Nixon, J., Ramage, L., Kolas, N., O'Donnell, L., Reguly,
+  T., Breitkreutz, A., Sellam, A., Chen, D., Chang, C., Rust, J.~M., Livstone,
+  M.~S., Oughtred, R., Dolinski, K., and Tyers, M. (2013).
+\newblock The biogrid interaction database: 2013 update.
+\newblock {\em Nucleic Acids Research\/}, {\bf 41}(Database-Issue), 816--823.
+
+\bibitem[Cormen {\em et~al.}(2009)Cormen, Leiserson, Rivest, and RL]{Cormen09}
+Cormen, T., Leiserson, C., Rivest, R., and RL, S. (2009).
+\newblock {\em Introduction to Algorithms\/}.
+\newblock MIT Press, Boston.
+
+\bibitem[Franceschini {\em et~al.}(2013)Franceschini, Szklarczyk, Frankild,
+  Kuhn, Simonovic, Roth, Lin, Minguez, Bork, von Mering, and Jensen]{String91}
+Franceschini, A., Szklarczyk, D., Frankild, S., Kuhn, M., Simonovic, M., Roth,
+  A., Lin, J., Minguez, P., Bork, P., von Mering, C., and Jensen, L.~J. (2013).
+\newblock {STRING} v9.1: protein-protein interaction networks, with increased
+  coverage and integration.
+\newblock {\em Nucleic Acids Research\/}, {\bf 41}(Database-Issue), 808--815.
+
+\bibitem[Guan {\em et~al.}(2008)Guan, Myers, Hess, Barutcuoglu, Caudy, and
+  Troyanskaya]{Guan08}
+Guan, Y., Myers, C., Hess, D., Barutcuoglu, Z., Caudy, A., and Troyanskaya, O.
+  (2008).
+\newblock Predicting gene function in a hierarchical context with an ensemble
+  of classifiers.
+\newblock {\em Genome Biology\/}, {\bf 9}(S2).
+
+\bibitem[Hamosh {\em et~al.}(2002)Hamosh, Scott, Amberger, Bocchini, Valle, and
+  McKusick]{omim}
+Hamosh, A., Scott, A.~F., Amberger, J.~S., Bocchini, C.~A., Valle, D., and
+  McKusick, V.~A. (2002).
+\newblock Online mendelian inheritance in man (omim), a knowledgebase of human
+  genes and genetic disorders.
+\newblock {\em Nucleic Acids Research\/}, {\bf 30}(1), 52--55.
+
+\bibitem[Jiang {\em et~al.}(2016)Jiang {\em et~al.}]{Jiang16}
+Jiang, Y. {\em et~al.} (2016).
+\newblock {An expanded evaluation of protein function prediction methods shows
+  an improvement in accuracy}.
+\newblock {\em Genome Biology\/}, {\bf 17}(184).
+
+\bibitem[Kahanda {\em et~al.}(2015)Kahanda, Funk, Verspoor, and
+  Ben-Hur]{PHENO15}
+Kahanda, I., Funk, C., Verspoor, K., and Ben-Hur, A. (2015).
+\newblock Phenostruct: Prediction of human phenotype ontology terms using
+  heterogeneous data sources.
+\newblock {\em F1000Research\/}, {\bf 4}, 259.
+
+\bibitem[Kohler {\em et~al.}(2014)Kohler, Doelken, Mungall, Bauer, Firth,
+  Bailleul-Forestier, Black, Brown, Brudno, Campbell, FitzPatrick, Eppig,
+  Jackson, Freson, Girdea, Helbig, Hurst, Jahn, Jackson, Kelly, Ledbetter,
+  Mansour, Martin, Moss, Mumford, Ouwehand, Park, Riggs, Scott, Sisodiya, {Van
+  Vooren}, Wapner, Wilkie, Wright, {Vulto-van Silfhout}, {de Leeuw}, {de
+  Vries}, Washingthon, Smith, Westerfield, Schofield, Ruef, Gkoutos, Haendel,
+  Smedley, Lewis, and Robinson]{Kohler14b}
+Kohler, S., Doelken, S., Mungall, C., Bauer, S., Firth, H., Bailleul-Forestier,
+  I., Black, G., Brown, D., Brudno, M., Campbell, J., FitzPatrick, D., Eppig,
+  J., Jackson, A., Freson, K., Girdea, M., Helbig, I., Hurst, J., Jahn, J.,
+  Jackson, L., Kelly, A., Ledbetter, D., Mansour, S., Martin, C., Moss, C.,
+  Mumford, A., Ouwehand, W., Park, S., Riggs, E., Scott, R., Sisodiya, S., {Van
+  Vooren}, S., Wapner, R., Wilkie, A., Wright, C., {Vulto-van Silfhout}, A.,
+  {de Leeuw}, N., {de Vries}, B., Washingthon, N., Smith, C., Westerfield, M.,
+  Schofield, P., Ruef, B., Gkoutos, G., Haendel, M., Smedley, D., Lewis, S.,
+  and Robinson, P. (2014).
+\newblock The human phenotype ontology project: linking molecular biology and
+  disease through phenotype data.
+\newblock {\em Nucleic Acids Research\/}, {\bf 42}((Database issue)), D966--74.
+
+\bibitem[Moreau and Tranchevent(2012)Moreau and Tranchevent]{Moreau12}
+Moreau, Y. and Tranchevent, L. (2012).
+\newblock Computational tools for prioritizing candidate genes: boosting
+  disease gene discovery.
+\newblock {\em Nature Rev. Genet.}, {\bf 13}(8), 523--536.
+
+\bibitem[Musso {\em et~al.}(2014)Musso {\em et~al.}]{Musso14}
+Musso, G. {\em et~al.} (2014).
+\newblock Novel cardiovascular gene functions revealed via systematic phenotype
+  prediction in zebrafish.
+\newblock {\em Development\/}, {\bf 141}, 224--235.
+
+\bibitem[Obozinski {\em et~al.}(2008)Obozinski, Lanckriet, Grant, M., and
+  Noble]{Obozinski08}
+Obozinski, G., Lanckriet, G., Grant, C., M., J., and Noble, W. (2008).
+\newblock Consistent probabilistic output for protein function prediction.
+\newblock {\em Genome Biology\/}, {\bf 9}(S6).
+
+\bibitem[Platt(1999)Platt]{Pla99}
+Platt, J. (1999).
+\newblock Probabilistic outputs for support vector machines and comparisons to
+  regularized likelihood methods.
+\newblock In A.~Smola, P.~Bartlett, B.~Scholkopf, and D.~Schuurmans, editors,
+  {\em Advances in Large Margin Classifiers\/}. MIT Press, Cambridge, MA.
+
+\bibitem[Robinson(2012)Robinson]{deepheno}
+Robinson, P. (2012).
+\newblock Deep phenotyping for precision medicine.
+\newblock {\em Human Mutations\/}, {\bf 32}(5), 777--780.
+
+\bibitem[Robinson {\em et~al.}(2008)Robinson, Kohler, Bauer, Seelow, Horn, and
+  Mundlos]{nick8}
+Robinson, P., Kohler, S., Bauer, S., Seelow, D., Horn, D., and Mundlos, S.
+  (2008).
+\newblock {The Human Phenotype Ontology: a tool for annotating and analyzing
+  human hereditary disease}.
+\newblock {\em Am. J. Hum. Genet.}, {\bf 83}, 610--615.
+
+\bibitem[Robinson {\em et~al.}(2011)Robinson, Krawitz, and Mundlos]{nick11}
+Robinson, P., Krawitz, P., and Mundlos, S. (2011).
+\newblock Strategies for exome and genome sequence data analysis in
+  disease-gene discovery projects.
+\newblock {\em Cin. Genet.}, {\bf 80}, 127 -- 132.
+
+\bibitem[Saito and Rehmsmeier(2015)Saito and Rehmsmeier]{Saito15}
+Saito, T. and Rehmsmeier, M. (2015).
+\newblock The precision-recall plot is more informative than the roc plot when
+  evaluating binary classifiers on imbalanced datasets.
+\newblock {\em PLoS ONE\/}, {\bf 10}, e0118432.
+
+\bibitem[Schietgat {\em et~al.}(2010)Schietgat, Vens, Struyf, Blockeel, and
+  Dzeroski]{Schietgat10}
+Schietgat, L., Vens, C., Struyf, J., Blockeel, H., and Dzeroski, S. (2010).
+\newblock Predicting gene function using hierarchical multi-label decision tree
+  ensembles.
+\newblock {\em BMC Bioinformatics\/}, {\bf 11}(2).
+
+\bibitem[Silla and Freitas(2011)Silla and Freitas]{Silla11}
+Silla, C. and Freitas, A. (2011).
+\newblock A survey of hierarchical classification across different application
+  domains.
+\newblock {\em Data Mining and Knowledge Discovery\/}, {\bf 22}(1-2), 31--72.
+
+\bibitem[Smedley {\em et~al.}(2016)Smedley, Schubach, Jacobsen, K{\"{o}}hler,
+  Zemojtel, Spielmann, J{\"{a}}ger, Hochheiser, Washington, McMurry, Haendel,
+  Mungall, Lewis, Groza, Valentini, and Robinson]{Smedley16}
+Smedley, D., Schubach, M., Jacobsen, J.~O., K{\"{o}}hler, S., Zemojtel, T.,
+  Spielmann, M., J{\"{a}}ger, M., Hochheiser, H., Washington, N.~L., McMurry,
+  J.~A., Haendel, M.~A., Mungall, C.~J., Lewis, S.~E., Groza, T., Valentini,
+  G., and Robinson, P.~N. (2016).
+\newblock {A Whole-Genome Analysis Framework for Effective Identification of
+  Pathogenic Regulatory Variants in Mendelian Disease}.
+\newblock {\em The American Journal of Human Genetics\/}, {\bf 99}(3),
+  595--606.
+
+\bibitem[Szklarczyk {\em et~al.}(2015)Szklarczyk, Franceschini, Wyder,
+  Forslund, Heller, Huerta-Cepas, Simonovic, Roth, Santos, Tsafou, Kuhn, Bork,
+  Jensen, and von Mering]{String10}
+Szklarczyk, D., Franceschini, A., Wyder, S., Forslund, K., Heller, D.,
+  Huerta-Cepas, J., Simonovic, M., Roth, A., Santos, A., Tsafou, K., Kuhn, M.,
+  Bork, P., Jensen, L.~J., and von Mering, C. (2015).
+\newblock String v10: protein-protein interaction networks, integrated over the
+  tree of life.
+\newblock {\em Nucleic Acids Research\/}, {\bf 43}(Database-Issue), 447--452.
+
+\bibitem[Tsochantaridis {\em et~al.}(2005)Tsochantaridis, Joachims, Hoffman,
+  and Altun]{Tsochantaridis05}
+Tsochantaridis, I., Joachims, T., Hoffman, T., and Altun, Y. (2005).
+\newblock Large margin methods for structured and interdependent output
+  variables.
+\newblock {\em Journal of Machine Learning Research\/}, {\bf 6}, 1453--1484.
+
+\bibitem[Valentini(2011)Valentini]{Vale11a}
+Valentini, G. (2011).
+\newblock {True Path Rule} hierarchical ensembles for genome-wide gene function
+  prediction.
+\newblock {\em IEEE ACM Transactions on Computational Biology and
+  Bioinformatics\/}, {\bf 8}(3), 832--847.
+
+\bibitem[Valentini(2014)Valentini]{Vale14c}
+Valentini, G. (2014).
+\newblock {Hierarchical Ensemble Methods for Protein Function Prediction}.
+\newblock {\em ISRN Bioinformatics\/}, {\bf 2014}(Article ID 901419), 34 pages.
+
+\bibitem[Valentini {\em et~al.}(2014)Valentini, Paccanaro, Caniza, Romero, and
+  Re]{Vale14e}
+Valentini, G., Paccanaro, A., Caniza, H., Romero, A., and Re, M. (2014).
+\newblock An extensive analysis of disease-gene associations using network
+  integration and fast kernel-based gene prioritization methods.
+\newblock {\em Artificial Intelligence in Medicine\/}, {\bf 61}(2), 63--78.
+
+\bibitem[Valentini {\em et~al.}(2016)Valentini, Armano, Frasca, Lin, Mesiti,
+  and Re]{Vale16a}
+Valentini, G., Armano, G., Frasca, M., Lin, J., Mesiti, M., and Re, M. (2016).
+\newblock {RANKS: a flexible tool for node label ranking and classification in
+  biological networks}.
+\newblock {\em Bioinformatics\/}, {\bf 32}(18).
+
+\bibitem[Wang {\em et~al.}(2013)Wang {\em et~al.}]{Wang13}
+Wang, P. {\em et~al.} (2013).
+\newblock Inference of gene-phenotype associations via protein-protein
+  interaction and orthology.
+\newblock {\em PLoS ONE\/}, {\bf 8}(10).
+
+\bibitem[Zemojtel {\em et~al.}(2014)Zemojtel, K{\"{o}}hler, Mackenroth,
+  J{\"{a}}ger, Hecht, Krawitz, Graul-Neumann, Doelken, Ehmke, Spielmann, Oien,
+  Schweiger, Kr{\"{u}}ger, Frommer, Fischer, Kornak, Fl{\"{o}}ttmann,
+  Ardeshirdavani, Moreau, Lewis, Haendel, Smedley, Horn, Mundlos, and
+  Robinson]{Zemojtel2014}
+Zemojtel, T., K{\"{o}}hler, S., Mackenroth, L., J{\"{a}}ger, M., Hecht, J.,
+  Krawitz, P., Graul-Neumann, L., Doelken, S., Ehmke, N., Spielmann, M., Oien,
+  N.~C., Schweiger, M.~R., Kr{\"{u}}ger, U., Frommer, G., Fischer, B., Kornak,
+  U., Fl{\"{o}}ttmann, R., Ardeshirdavani, A., Moreau, Y., Lewis, S.~E.,
+  Haendel, M., Smedley, D., Horn, D., Mundlos, S., and Robinson, P.~N. (2014).
+\newblock Effective diagnosis of genetic disease by computational phenotype
+  analysis of the disease-associated genome.
+\newblock {\em Sci Transl Med\/}, {\bf 6}(252), 252ra123.
+
+\end{thebibliography}

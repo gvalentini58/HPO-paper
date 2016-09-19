@@ -1,0 +1,97 @@
+\begin{thebibliography}{}
+
+\bibitem[Barlow and Brunk(1972)Barlow and Brunk]{Barlow72}
+Barlow, R. and Brunk, H. (1972).
+\newblock The isotonic regression problem and its dual.
+\newblock {\em Journal of the American Statistical Association\/}, {\bf
+  67}(337), 140--147.
+
+\bibitem[Bolstad {\em et~al.}(2003)Bolstad, Irizarry, Astrand, and
+  Speed]{Qnorm}
+Bolstad, B.~M., Irizarry, R.~A., Astrand, M., and Speed, T.~P. (2003).
+\newblock A comparison of normalization methods for high density
+  oligonucleotide array data based on variance and bias.
+\newblock {\em Bioinformatics\/}, {\bf 19}(2), 185--193.
+
+\bibitem[Burdakov {\em et~al.}(2006)Burdakov, Sysoev, Grimvall, and
+  Hussian]{Burdakov06}
+Burdakov, O., Sysoev, O., Grimvall, A., and Hussian, M. (2006).
+\newblock An $\mathcal{O}(n^2)$ algorithm for isotonic regression.
+\newblock In {\em Large-Scale Nonlinear Optimization\/}, number~83 in Nonconvex
+  Optimization and Its Applications, pages 25--33. Springer-Verlag.
+
+\bibitem[Cesa-Bianchi {\em et~al.}(2012)Cesa-Bianchi, Re, and
+  Valentini]{Vale12a}
+Cesa-Bianchi, N., Re, M., and Valentini, G. (2012).
+\newblock Synergy of multi-label hierarchical ensembles, data fusion, and
+  cost-sensitive methods for gene functional inference.
+\newblock {\em Machine Learning\/}, {\bf 88}(1), 209--241.
+
+\bibitem[Dasgupta {\em et~al.}(2008)Dasgupta, Papadimitriou, and
+  Vazirani]{Dasgupta08}
+Dasgupta, S., Papadimitriou, C., and Vazirani, U. (2008).
+\newblock {\em Algorithms\/}.
+\newblock McGraw Hill, Boston.
+
+\bibitem[Fan {\em et~al.}(2008)Fan, Chang, Hsieh, Wang, and Lin]{liblinear}
+Fan, R.-E., Chang, K.-W., Hsieh, C.-J., Wang, X.-R., and Lin, C.-J. (2008).
+\newblock Liblinear: A library for large linear classification.
+\newblock {\em Journal of Machine Learning Research\/}, {\bf 9}, 1871--1874.
+
+\bibitem[Platt(1999)Platt]{Pla99}
+Platt, J. (1999).
+\newblock Probabilistic outputs for support vector machines and comparisons to
+  regularized likelihood methods.
+\newblock In A.~Smola, P.~Bartlett, B.~Scholkopf, and D.~Schuurmans, editors,
+  {\em Advances in Large Margin Classifiers\/}. MIT Press, Cambridge, MA.
+
+\bibitem[Re and Valentini(2013)Re and Valentini]{Vale14a}
+Re, M. and Valentini, G. (2013).
+\newblock {Network-based Drug Ranking and Repositioning with respect to
+  DrugBank Therapeutic Categories}.
+\newblock {\em IEEE/ACM Transactions on Computational Biology and
+  Bioinformatics\/}, {\bf 10}(6), 1359--1371.
+
+\bibitem[Re {\em et~al.}(2012)Re, Mesiti, and Valentini]{Vale12c}
+Re, M., Mesiti, M., and Valentini, G. (2012).
+\newblock {A Fast Ranking Algorithm for Predicting Gene Functions in
+  Biomolecular Networks}.
+\newblock {\em IEEE ACM Transactions on Computational Biology and
+  Bioinformatics\/}, {\bf 9}(6), 1812--1818.
+
+\bibitem[Smola and Kondor(2003)Smola and Kondor]{Smola03}
+Smola, A. and Kondor, I. (2003).
+\newblock Kernel and regularization on graphs.
+\newblock In B.~Scholkopf and M.~Warmuth, editors, {\em Proc. of the Annual
+  Conf. on Computational Learning Theory\/}, Lecture Notes in Computer Science,
+  pages 144--158. Springer.
+
+\bibitem[Valentini(2011)Valentini]{Vale11a}
+Valentini, G. (2011).
+\newblock {True Path Rule} hierarchical ensembles for genome-wide gene function
+  prediction.
+\newblock {\em IEEE ACM Transactions on Computational Biology and
+  Bioinformatics\/}, {\bf 8}(3), 832--847.
+
+\bibitem[Valentini and Re(2009)Valentini and Re]{Vale09d}
+Valentini, G. and Re, M. (2009).
+\newblock Weighted {T}rue {P}ath {R}ule: a multilabel hierarchical algorithm
+  for gene function prediction.
+\newblock In {\em MLD-ECML 2009, 1st International Workshop on learning from
+  Multi-Label Data\/}, pages 133--146, Bled, Slovenia.
+
+\bibitem[Valentini {\em et~al.}(2014)Valentini, Paccanaro, Caniza, Romero, and
+  Re]{Vale14e}
+Valentini, G., Paccanaro, A., Caniza, H., Romero, A., and Re, M. (2014).
+\newblock An extensive analysis of disease-gene associations using network
+  integration and fast kernel-based gene prioritization methods.
+\newblock {\em Artificial Intelligence in Medicine\/}, {\bf 61}(2), 63--78.
+
+\bibitem[Valentini {\em et~al.}(2016)Valentini, Armano, Frasca, Lin, Mesiti,
+  and Re]{Vale16a}
+Valentini, G., Armano, G., Frasca, M., Lin, J., Mesiti, M., and Re, M. (2016).
+\newblock {RANKS: a flexible tool for node label ranking and classification in
+  biological networks}.
+\newblock {\em Bioinformatics\/}, {\bf 32}(18).
+
+\end{thebibliography}

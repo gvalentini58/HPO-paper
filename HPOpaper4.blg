@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: HPOpaper4.aux
+The style file: natbib.bst
+Database file #1: biblio-HPBIO.bib
+Warning--string name "december" is undefined
+--line 12947 of file biblio-HPBIO.bib
+Warning--string name "september" is undefined
+--line 12958 of file biblio-HPBIO.bib
+"}" immediately follows a field name---line 13035 of file biblio-HPBIO.bib
+ : http://www.rostlab.org/services/loctree3.
+ :                                          },
+I'm skipping whatever remains of this entry
+You've used 31 entries,
+            2378 wiz_defined-function locations,
+            737 strings with 12423 characters,
+and the built_in function-call counts, 18593 in all, are:
+= -- 1476
+> -- 1615
+< -- 11
++ -- 510
+- -- 500
+* -- 1994
+:= -- 3408
+add.period$ -- 154
+call.type$ -- 31
+change.case$ -- 189
+chr.to.int$ -- 31
+cite$ -- 31
+duplicate$ -- 612
+empty$ -- 988
+format.name$ -- 542
+if$ -- 3510
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 158
+num.names$ -- 126
+pop$ -- 177
+preamble$ -- 1
+purify$ -- 190
+quote$ -- 0
+skip$ -- 390
+stack$ -- 0
+substring$ -- 985
+swap$ -- 120
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 276
+warning$ -- 0
+while$ -- 129
+width$ -- 0
+write$ -- 406
+(There was 1 error message)

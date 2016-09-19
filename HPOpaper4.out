@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methods}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Basic notation and definitions}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Flat learning of the terms of the ontology}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{The Hierarchical Top-Down \(HTD\) algorithm }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Hierarchical True Path Rule algorithm for DAGs \(TPR-DAG\)}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Consistency of the predictions}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Experimental results}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Prediction of Human Phenotype Ontology terms}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Data}{subsection.3.1}% 10
+\BOOKMARK [4][-]{section*.1}{Data sources.}{subsubsection.3.1.1}% 11
+\BOOKMARK [4][-]{section*.2}{HPO DAG and Annotations.}{subsubsection.3.1.1}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Experimental set-up and performance metrics}{subsection.3.1}% 13
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Results and Discussion}{subsection.3.1}% 14
+\BOOKMARK [2][-]{subsection.3.2}{HPO Prediction of Newly Annotated Genes}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Data}{subsection.3.2}% 16
+\BOOKMARK [4][-]{section*.3}{Data Source.}{subsubsection.3.2.1}% 17
+\BOOKMARK [4][-]{section*.4}{HPO DAG and Annotations.}{subsubsection.3.2.1}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Experimental set-up and performance metrics.}{subsection.3.2}% 19
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Results and Discussion}{subsection.3.2}% 20
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 21
